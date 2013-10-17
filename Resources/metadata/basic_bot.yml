@@ -64,6 +64,14 @@ bots:
         agent: MetagerBot/
         ip: null
         type: bot
+    'Montastic Monitor':
+        agent: montastic-monitoring
+        ip: null
+        type: bot
+    'Montastic Webmonitor':
+        agent: montastic-webmonitor
+        ip: null
+        type: bot
     MSN:
         agent: msnbot/
         ip: null
