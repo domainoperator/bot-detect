@@ -65,6 +65,10 @@ bots:
         ip: null
         type: bot
     'Montastic Monitor':
+        agent: montastic-monitor
+        ip: null
+        type: bot
+    'Montastic Monitoring':
         agent: montastic-monitoring
         ip: null
         type: bot
