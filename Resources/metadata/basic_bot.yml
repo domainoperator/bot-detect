@@ -3,6 +3,10 @@ bots:
         agent: ia_archiver
         ip: null
         type: bot
+    Adidxbot:
+        agent: adidxbot/
+        ip: null
+        type: bot
     'Alta Vista':
         agent: Scooter/
         ip: null
